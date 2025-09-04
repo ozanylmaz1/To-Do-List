@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Todo List",
+    "slug": "todo-list-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f8f9fa"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ozann.yllmaz.todoapp"
+    },
+    "android": {
+      "package": "com.ozann.yllmaz.todoapp",
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f8f9fa"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a0f925ec-184e-403e-ba5d-45f8bd30044f"
+      }
+    },
+    "owner": "ozann.yllmaz"
+  }
+}
