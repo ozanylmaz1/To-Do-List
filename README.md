@@ -51,7 +51,5 @@ Geliştirici: Ozan Yılmaz
 📸 Ekran Görüntüleri
 
 <br />
-![todolist (1)](https://github.com/user-attachments/assets/b1a918fb-1f2f-455f-a611-ab7e62788a8d)
-![todolist (2)](https://github.com/user-attachments/assets/16277d92-da49-4d73-9010-50a2a9c0c13e)
-![todolist (3)](https://github.com/user-attachments/assets/90b8178c-98c1-429d-aa9b-3d12b55e00b1)
-![todolist (4)](https://github.com/user-attachments/assets/c8f78262-51b3-4c0e-b833-f5ab85007156)
+
+![todolist (1)](https://github.com/user-attachments/assets/ba8c407c-9b9e-42f8-9c98-20eb743de590)
