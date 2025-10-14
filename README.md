@@ -53,3 +53,6 @@ Geliştirici: Ozan Yılmaz
 <br />
 
 ![todolist (1)](https://github.com/user-attachments/assets/ba8c407c-9b9e-42f8-9c98-20eb743de590)
+![todolist (2)](https://github.com/user-attachments/assets/ea85fb71-1fe9-48f3-a27a-190f97cd5053)
+![todolist (3)](https://github.com/user-attachments/assets/9195431a-94bf-4222-869d-bb05c9fc3e4f)
+![todolist (4)](https://github.com/user-attachments/assets/b66b3658-3df7-45a9-8772-ff63be16a315)
