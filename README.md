@@ -1,7 +1,8 @@
 # To-Do List
 
 Google Play: <a href="https://expo.dev/accounts/ozann.yllmaz/projects/todo" target="_blank">Başlat</a><br /><br />
-<img width="1200" height="628" alt="todo" src="https://github.com/user-attachments/assets/7837f450-5d47-4595-b74c-482588c63b62" />
+<img width="1024" height="500" alt="Tanıtımlar" src="https://github.com/user-attachments/assets/59f09cf5-9bb4-4c64-b184-06f5ec0c217f" />
+
 <br />
 
 **To-Do List**, günlük görevlerinizi düzenli bir şekilde yönetmenizi sağlayan, sade ve kullanışlı bir **mobil uygulamadır.**  
