@@ -45,9 +45,29 @@ Teknolojiler
 İletişim
 
 Geliştirici: Ozan Yılmaz  
-📧 E-posta: **ozany1542@gmail.com**  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="_blank">in/ozan-yilmaz-338b802a8</a>  
-
+<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin-ozan-yilmaz"
+      height="30"
+      width="30"
+      style="vertical-align: middle;"
+    />
+  </a>
+&nbsp;
+  <a href="mailto:ozany1542@gmail.com">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/1200px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png"
+      alt="Outlook"
+      height="30"
+      width="30"
+      style="vertical-align: middle;"
+    />
+  </a>
+</p>
+<br />
 © 2025 To-Do List  
 
 
