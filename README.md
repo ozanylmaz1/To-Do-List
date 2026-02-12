@@ -52,6 +52,8 @@ Geliştirici: Ozan Yılmaz
 
 
 📸 Ekran Görüntüleri
+
+<br />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/b66cbaf1-1027-4d96-bfb9-deebfe4daa59" />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/dd798733-21cc-46ef-ba46-2e44b44bffe8" />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/d1076617-b8ee-43d6-9258-1461fc8dfc9e" />
