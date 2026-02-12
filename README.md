@@ -45,7 +45,6 @@ Teknolojiler
 İletişim
 
 Geliştirici: Ozan Yılmaz  
-<br />
 <p align="left">
   <a href="https://www.linkedin.com/in/ozan-yilmaz-338b802a8" target="_blank">
     <img
