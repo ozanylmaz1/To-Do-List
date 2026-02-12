@@ -54,10 +54,10 @@ Geliştirici: Ozan Yılmaz
 📸 Ekran Görüntüleri
 
 <br />
-<img width="304" height="540" src="https://github.com/user-attachments/assets/b66cbaf1-1027-4d96-bfb9-deebfe4daa59" />
-<img width="304" height="540" src="https://github.com/user-attachments/assets/dd798733-21cc-46ef-ba46-2e44b44bffe8" />
-<img width="304" height="540" src="https://github.com/user-attachments/assets/d1076617-b8ee-43d6-9258-1461fc8dfc9e" />
-<img width="304" height="540" src="https://github.com/user-attachments/assets/60e4d7af-b4bd-4724-b471-413a0039875d" />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/adb07403-0f89-45d5-835f-29839527693c" />
+<img width="304" height="540" src="https://github.com/user-attachments/assets/60e4d7af-b4bd-4724-b471-413a0039875d" />
+<img width="304" height="540" src="https://github.com/user-attachments/assets/d1076617-b8ee-43d6-9258-1461fc8dfc9e" />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/ff57ea55-0993-4ef0-9692-9d28b4191921" />
 <img width="304" height="540" src="https://github.com/user-attachments/assets/b8e6e1cc-3cd5-4f3d-bcf9-51d448c9ad4a" />
+<img width="304" height="540" src="https://github.com/user-attachments/assets/b66cbaf1-1027-4d96-bfb9-deebfe4daa59" />
+<img width="304" height="540" src="https://github.com/user-attachments/assets/dd798733-21cc-46ef-ba46-2e44b44bffe8" />
