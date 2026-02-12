@@ -57,27 +57,32 @@ Geliştirici: Ozan Yılmaz
 
   <!-- 1. satır 4 görsel -->
   <div style="flex:1 1 220px; max-width:23%;">
-    <img src="LINK1" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/b66cbaf1-1027-4d96-bfb9-deebfe4daa59" style="width:100%; border-radius:12px;" />
   </div>
+
   <div style="flex:1 1 220px; max-width:23%;">
-    <img src="LINK2" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/dd798733-21cc-46ef-ba46-2e44b44bffe8" style="width:100%; border-radius:12px;" />
   </div>
+
   <div style="flex:1 1 220px; max-width:23%;">
-    <img src="LINK3" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/d1076617-b8ee-43d6-9258-1461fc8dfc9e" style="width:100%; border-radius:12px;" />
   </div>
+
   <div style="flex:1 1 220px; max-width:23%;">
-    <img src="LINK4" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/60e4d7af-b4bd-4724-b471-413a0039875d" style="width:100%; border-radius:12px;" />
   </div>
 
   <!-- 2. satır 3 görsel -->
   <div style="flex:1 1 220px; max-width:30%;">
-    <img src="LINK5" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/adb07403-0f89-45d5-835f-29839527693c" style="width:100%; border-radius:12px;" />
   </div>
+
   <div style="flex:1 1 220px; max-width:30%;">
-    <img src="LINK6" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/ff57ea55-0993-4ef0-9692-9d28b4191921" style="width:100%; border-radius:12px;" />
   </div>
+
   <div style="flex:1 1 220px; max-width:30%;">
-    <img src="LINK7" style="width:100%; border-radius:12px;" />
+    <img src="https://github.com/user-attachments/assets/b8e6e1cc-3cd5-4f3d-bcf9-51d448c9ad4a" style="width:100%; border-radius:12px;" />
   </div>
 
 </div>
