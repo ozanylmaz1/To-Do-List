@@ -1,6 +1,6 @@
 # To-Do List
 
-Google Play: <a href="https://expo.dev/accounts/ozann.yllmaz/projects/todo" target="_blank">Başlat</a><br /><br />
+Google Play: <a href="https://play.google.com/apps/testing/com.ozann.yllmaz.todo" target="_blank">Başlat</a><br /><br />
 <img width="1024" height="500" alt="play store" src="https://github.com/user-attachments/assets/804381a2-b99c-4202-9e8f-84bbfc6c0134" />
 
 
